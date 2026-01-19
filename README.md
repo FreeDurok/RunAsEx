@@ -18,8 +18,7 @@ Run:
 ./runasex.exe $DOMAIN\$USER $PASSWORD shell.exe
 ```
 
-
-<img width="907" height="280" alt="immagine" src="https://github.com/user-attachments/assets/9aa8b5ff-4783-4170-84f8-6582044c53b9" />
+<img width="1130" height="342" alt="immagine" src="https://github.com/user-attachments/assets/4dacea2e-2840-4628-bcdb-cebfcab0df68" />
 
 ---
 
