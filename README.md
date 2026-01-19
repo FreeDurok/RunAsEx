@@ -10,6 +10,9 @@ Compile:
 x86_64-w64-mingw32-gcc -o runasex.exe runasex.c -ladvapi32
 ```
 
+Requirements: 
+- Administrator Privileges
+
 Run:
 ```bash
 ./runasex.exe $DOMAIN\$USER $PASSWORD shell.exe
